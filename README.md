@@ -4,8 +4,6 @@
 
 <h2 align="center">Hi, I'm Sultan 👋</h2> 
 
-💻 **Full Stack Developer (Laravel)** | 📱 **Mobile Dev Enthusiast** | 🤖 **ML Explorer**  
-
 I’m passionate about building scalable web and mobile applications, and I’m diving into machine learning to create smarter digital solutions.  
 Currently balancing my projects with continuous learning, fueled by creativity (and a bit of anime inspiration ✨).  
 
