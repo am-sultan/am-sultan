@@ -46,12 +46,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=am-sultan&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=am-sultan&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🎯 Current Goals
 - Deepen expertise in **Full Stack Laravel**  
 - Build and publish a **Flutter app**  
 - Explore **real-world ML applications**  
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sultanathallahriq)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athallariqL@outlook.com)
 
 ---
 
