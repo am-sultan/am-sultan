@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/Heading.png" alt="Sultan Banner" width="100%" />
 </p>
-# Hey, I'm Sultan 👋  
+
+<h2 align="center">Hi, I'm Sultan 👋</h2> 
 
 💻 **Full Stack Developer (Laravel)** | 📱 **Mobile Dev Enthusiast** | 🤖 **ML Explorer**  
 
@@ -9,6 +10,12 @@ I’m passionate about building scalable web and mobile applications, and I’m 
 Currently balancing my projects with continuous learning, fueled by creativity (and a bit of anime inspiration ✨).  
 
 ---
+
+## 🧑‍💻 About Me
+- 🌱 Currently exploring **Mobile Development** and **Machine Learning**
+- 💼 Working with **Laravel** and modern web stacks
+- 🎯 Goal: Build scalable apps and smart systems
+- 🎨 Fun fact: I like mixing **anime vibes** with tech
 
 ## ⚡ Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
