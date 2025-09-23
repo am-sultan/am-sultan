@@ -74,4 +74,11 @@
 ---
 
 ## 🌸 Inspired By
-_"taking responsibility for your action can be hard, but if its the right thing to do, i would do it even if it hurts me."_  
+_"taking responsibility for your action can be hard, but if its the right thing to do, i would do it even if it hurts me."_ 
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/am-sultan/am-sultan/blob/output/snake.svg" alt="snake animation" />
+</p>
