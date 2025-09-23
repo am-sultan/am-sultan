@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/Heading.png" alt="Sultan Banner" width="100%" />
+</p>
 # Hey, I'm Sultan 👋  
 
 💻 **Full Stack Developer (Laravel)** | 📱 **Mobile Dev Enthusiast** | 🤖 **ML Explorer**  
