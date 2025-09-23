@@ -20,6 +20,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=am-sultan&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/am-sultan?style=for-the-badge" alt="followers" />
+  <img src="https://img.shields.io/github/stars/am-sultan?style=for-the-badge" alt="stars" />
+</p>
+
+---
+
 ## ⚡ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
